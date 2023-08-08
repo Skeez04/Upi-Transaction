@@ -9,7 +9,7 @@ This repository contains Python scripts and Jupyter notebooks for analyzing UPI 
 - [Analysis](#analysis)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Getting Started
 
@@ -18,7 +18,7 @@ To begin with the project, follow these steps:
 1. Clone this repository to your local machine using:
 
    ```
-   [git clone https://github.com/your-username/upi-transaction-analysis.git](https://github.com/Skeez04/Upi-Transaction)
+   https://github.com/Skeez04/Upi-Transaction
    ```
 
 2. Install the required software and libraries:
@@ -61,10 +61,3 @@ The analysis notebooks in this repository cover various aspects of UPI transacti
 
 Contributions to this project are welcome! If you have ideas for additional analyses, improvements to existing notebooks, or better visualizations, feel free to fork the repository and submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE), allowing you to modify and distribute the code while retaining the original license and copyright notice.
-
----
-
-Feel free to modify this template to match the specifics of your project. Include any additional information that might be relevant for your audience. Good luck with your UPI transaction analysis using Python!
